@@ -1,0 +1,38 @@
+#main-title {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.main-list {
+  color: forestgreen;
+  background-color: pink;
+  font-size: 24px;
+}
+
+.recipe-heading {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.spaghetti {
+  color: red;
+}
+
+.dumpling {
+  color: yellowgreen;
+}
+
+.chicken {
+  color: green;
+}
+
+.meat {
+  background-color: lightcoral;
+}
+
+.seasoning {
+  font-style: italic;
+  color: green;
+}
+
+.sauce {
+  color: mediumpurple;
+}
